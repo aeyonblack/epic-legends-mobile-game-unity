@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 0a576f31a3fa2af448894ee35eb46819
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Belly01
+    100002: Belly02
+    100004: Body
+    100006: Dragon
+    100008: Eye01_L
+    100010: Eye01_R
+    100012: Eye02_L
+    100014: Eye02_R
+    100016: EyeRoot
+    100018: FrontLeg01_L
+    100020: FrontLeg01_R
+    100022: FrontLeg02_L
+    100024: FrontLeg02_R
+    100026: FrontLeg03_L
+    100028: FrontLeg03_R
+    100030: Head
+    100032: Jaw01
+    100034: Jaw02
+    100036: RearLeg01_L
+    100038: RearLeg01_R
+    100040: RearLeg02_L
+    100042: RearLeg02_R
+    100044: RearLeg03_L
+    100046: RearLeg03_R
+    100048: Spine01
+    100050: Spine02
+    100052: Tail01
+    100054: Tail02
+    100056: Tail03
+    100058: //RootNode
+    100060: UpperJaw01
+    100062: UpperJaw02
+    100064: Wing01_L
+    100066: Wing01_R
+    100068: Wing02_L
+    100070: Wing02_R
+    100072: Wing03_L
+    100074: Wing03_R
+    100076: Wing04_L
+    100078: Wing04_R
+    100080: Wing05_L
+    100082: Wing05_R
+    100084: Wing06_L
+    100086: Wing06_R
+    100088: Wing07_L
+    100090: Wing07_R
+    100092: WingRoot
+    400000: Belly01
+    400002: Belly02
+    400004: Body
+    400006: Dragon
+    400008: Eye01_L
+    400010: Eye01_R
+    400012: Eye02_L
+    400014: Eye02_R
+    400016: EyeRoot
+    400018: FrontLeg01_L
+    400020: FrontLeg01_R
+    400022: FrontLeg02_L
+    400024: FrontLeg02_R
+    400026: FrontLeg03_L
+    400028: FrontLeg03_R
+    400030: Head
+    400032: Jaw01
+    400034: Jaw02
+    400036: RearLeg01_L
+    400038: RearLeg01_R
+    400040: RearLeg02_L
+    400042: RearLeg02_R
+    400044: RearLeg03_L
+    400046: RearLeg03_R
+    400048: Spine01
+    400050: Spine02
+    400052: Tail01
+    400054: Tail02
+    400056: Tail03
+    400058: //RootNode
+    400060: UpperJaw01
+    400062: UpperJaw02
+    400064: Wing01_L
+    400066: Wing01_R
+    400068: Wing02_L
+    400070: Wing02_R
+    400072: Wing03_L
+    400074: Wing03_R
+    400076: Wing04_L
+    400078: Wing04_R
+    400080: Wing05_L
+    400082: Wing05_R
+    400084: Wing06_L
+    400086: Wing06_R
+    400088: Wing07_L
+    400090: Wing07_R
+    400092: WingRoot
+    4300000: Dragon
+    7400000: Taunting
+    9500000: //RootNode
+    13700000: Dragon
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Taunting
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Spine01
+        weight: 1
+      - path: Body/Spine01/RearLeg01_L
+        weight: 1
+      - path: Body/Spine01/RearLeg01_L/RearLeg02_L
+        weight: 1
+      - path: Body/Spine01/RearLeg01_L/RearLeg02_L/RearLeg03_L
+        weight: 1
+      - path: Body/Spine01/RearLeg01_R
+        weight: 1
+      - path: Body/Spine01/RearLeg01_R/RearLeg02_R
+        weight: 1
+      - path: Body/Spine01/RearLeg01_R/RearLeg02_R/RearLeg03_R
+        weight: 1
+      - path: Body/Spine01/Spine02
+        weight: 1
+      - path: Body/Spine01/Spine02/Belly01
+        weight: 1
+      - path: Body/Spine01/Spine02/Belly02
+        weight: 1
+      - path: Body/Spine01/Spine02/FrontLeg01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/FrontLeg01_L/FrontLeg02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/FrontLeg01_L/FrontLeg02_L/FrontLeg03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/FrontLeg01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/FrontLeg01_R/FrontLeg02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/FrontLeg01_R/FrontLeg02_R/FrontLeg03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Head
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeRoot
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeRoot/Eye01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeRoot/Eye01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeRoot/Eye02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeRoot/Eye02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/Jaw01
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/Jaw01/Jaw02
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/UpperJaw01
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/UpperJaw01/UpperJaw02
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_L/Wing02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_L/Wing02_L/Wing03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_L/Wing02_L/Wing03_L/Wing04_L
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_L/Wing02_L/Wing03_L/Wing04_L/Wing05_L
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_L/Wing02_L/Wing03_L/Wing06_L
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_L/Wing02_L/Wing03_L/Wing06_L/Wing07_L
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_R/Wing02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_R/Wing02_R/Wing03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_R/Wing02_R/Wing03_R/Wing04_R
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_R/Wing02_R/Wing03_R/Wing04_R/Wing05_R
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_R/Wing02_R/Wing03_R/Wing06_R
+        weight: 1
+      - path: Body/Spine01/Spine02/WingRoot/Wing01_R/Wing02_R/Wing03_R/Wing06_R/Wing07_R
+        weight: 1
+      - path: Body/Tail01
+        weight: 1
+      - path: Body/Tail01/Tail02
+        weight: 1
+      - path: Body/Tail01/Tail02/Tail03
+        weight: 1
+      - path: Dragon
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MiniGun
+  m_Controller: {fileID: 9100000, guid: 458057515e633634da742c9d1352af0f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: dceac7fe7aafbbc41b2ed8d86713b61e, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 2354a7efaf906f345ab76fa863da40ee, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 87f6b03db62bc7244b49d79900424996, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 4bde06cf03663824fb9a6970d53a91b1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 9da61ffdbbcc95247be8790a72442ec2, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 3b380b3c9d1ee5d4b9d104733abea9b1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 5462cd0828a84c24d9bb82a473e892e9, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 15431c8030c918141b4407db6d74d9c2, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a6a77a1b4bff1044afb0fb2a9ba7d8c, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 809f17888d1d3d044973c3eaf3d7a39e, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: d6837acbb23ef9845898944499b34854, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: cb5e759120c4a274484141df63391e4a, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: c4dc1161e655c854e97852c2f3e107eb, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 20c97597d0a1bf3428219771c10f4bb9, type: 2}

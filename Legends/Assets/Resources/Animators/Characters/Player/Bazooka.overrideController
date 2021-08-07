@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bazooka
+  m_Controller: {fileID: 9100000, guid: 458057515e633634da742c9d1352af0f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: dceac7fe7aafbbc41b2ed8d86713b61e, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 6238b9fa24abd4b4aa7e62102d8c9042, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 87f6b03db62bc7244b49d79900424996, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 0dcd5140032a69945ba64787ac1a0ad0, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 9da61ffdbbcc95247be8790a72442ec2, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: c49fcf3e8c78297448950d20d301f6f6, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: c4dc1161e655c854e97852c2f3e107eb, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 20c97597d0a1bf3428219771c10f4bb9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d6837acbb23ef9845898944499b34854, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: d97038a2d4aef0d47b4a1f4e2ea40927, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a6a77a1b4bff1044afb0fb2a9ba7d8c, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: cbef745d5dad61f4a9c28bb32c697e7f, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 5462cd0828a84c24d9bb82a473e892e9, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: f3e1c1e41b6f60a4296f2fa36460fbfa, type: 3}

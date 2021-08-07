@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Galaxy05_Unlit_red
+  m_Shader: {fileID: -6465566751694194690, guid: e87f59bf3642c1746883b9bafcdd04c7,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Cubemap_51FCD182:
+        m_Texture: {fileID: 8900000, guid: 69db39dffc15fe84ca4cf00b3e01d2fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Cubemap_89E137DB:
+        m_Texture: {fileID: 8900000, guid: 5722270d3f4c261428990f6de6a0a67a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1B19E5E6: 20
+    - Vector1_3A83997D: 0.05
+    - Vector1_6A505907: 2
+    - Vector1_767F2B2D: 2
+    - Vector1_A15033D2: 1
+    - Vector1_E6B832D7: 10
+    m_Colors:
+    - Color_1A1AF88E: {r: 12.996039, g: 2.528071, b: 0, a: 1}
+    - Color_3FCEB46F: {r: 23.968628, g: 1.2131317, b: 0.50196034, a: 1}
+    - Color_E16A9C64: {r: 1, g: 0, b: 0, a: 1}
+    - Vector2_17D7AD93: {r: 0, g: -0.1, b: 0, a: 0}
+    - Vector2_20F81FC3: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_37905506: {r: 0, g: 0.1, b: 0, a: 0}
+    - Vector3_3EA0E406: {r: -1, g: 0, b: 0, a: 0}
+    - Vector3_955C0A54: {r: 0.5, g: 0, b: 0, a: 0}

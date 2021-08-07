@@ -1,0 +1,21 @@
+{
+    "name": "MoreMountains.Feedbacks.NiceVibrations",
+    "references": [
+        "GUID:dad624460036b51448e1b1849358a96a",
+        "GUID:865b414a121ed594e91db2e09f65d38c",
+        "GUID:041029188fa88c54f9efffc039b6a1c9",
+        "GUID:426ad1839a76a3e4db8c1e4fde3eb745"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "MOREMOUNTAINS_FEEDBACKS",
+        "MOREMOUNTAINS_NICEVIBRATIONS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

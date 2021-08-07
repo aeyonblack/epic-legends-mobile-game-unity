@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: dbf5a38d3b6ce0d4c8c90d6d38da2bdc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: BottomMouth
+    100004: Eye01
+    100006: Eye02
+    100008: Eye03
+    100010: Eye04
+    100012: Eye05
+    100014: EyeTip
+    100016: Head
+    100018: //RootNode
+    100020: joint5
+    100022: joint6
+    100024: Leaf01
+    100026: Leaf02
+    100028: Leaf03
+    100030: Leg_L_01
+    100032: Leg_L_02
+    100034: Leg_L_03
+    100036: Leg_L_04
+    100038: Leg_L_05
+    100040: Leg_L_06
+    100042: Leg_L_07
+    100044: Leg_L_08
+    100046: Leg_L_09
+    100048: Leg_L_10
+    100050: Leg_L_11
+    100052: Leg_L_12
+    100054: Leg_L_13
+    100056: Leg_L_14
+    100058: Leg_L_15
+    100060: Leg_R_01
+    100062: Leg_R_02
+    100064: Leg_R_03
+    100066: Leg_R_04
+    100068: Leg_R_05
+    100070: Leg_R_06
+    100072: Leg_R_07
+    100074: Leg_R_08
+    100076: Leg_R_09
+    100078: Leg_R_10
+    100080: Leg_R_11
+    100082: Leg_R_12
+    100084: Leg_R_13
+    100086: Leg_R_14
+    100088: Leg_R_15
+    100090: LegBase
+    100092: Mouth
+    100094: polySurface5
+    100096: Spine00
+    100098: Spine01
+    100100: Spine02
+    100102: UpperMouth
+    400000: Body
+    400002: BottomMouth
+    400004: Eye01
+    400006: Eye02
+    400008: Eye03
+    400010: Eye04
+    400012: Eye05
+    400014: EyeTip
+    400016: Head
+    400018: //RootNode
+    400020: joint5
+    400022: joint6
+    400024: Leaf01
+    400026: Leaf02
+    400028: Leaf03
+    400030: Leg_L_01
+    400032: Leg_L_02
+    400034: Leg_L_03
+    400036: Leg_L_04
+    400038: Leg_L_05
+    400040: Leg_L_06
+    400042: Leg_L_07
+    400044: Leg_L_08
+    400046: Leg_L_09
+    400048: Leg_L_10
+    400050: Leg_L_11
+    400052: Leg_L_12
+    400054: Leg_L_13
+    400056: Leg_L_14
+    400058: Leg_L_15
+    400060: Leg_R_01
+    400062: Leg_R_02
+    400064: Leg_R_03
+    400066: Leg_R_04
+    400068: Leg_R_05
+    400070: Leg_R_06
+    400072: Leg_R_07
+    400074: Leg_R_08
+    400076: Leg_R_09
+    400078: Leg_R_10
+    400080: Leg_R_11
+    400082: Leg_R_12
+    400084: Leg_R_13
+    400086: Leg_R_14
+    400088: Leg_R_15
+    400090: LegBase
+    400092: Mouth
+    400094: polySurface5
+    400096: Spine00
+    400098: Spine01
+    400100: Spine02
+    400102: UpperMouth
+    4300000: polySurface5
+    7400000: IdleBattle
+    9500000: //RootNode
+    13700000: polySurface5
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IdleBattle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/LegBase
+        weight: 1
+      - path: Body/LegBase/Leg_L_01
+        weight: 1
+      - path: Body/LegBase/Leg_L_01/Leg_L_02
+        weight: 1
+      - path: Body/LegBase/Leg_L_01/Leg_L_02/Leg_L_03
+        weight: 1
+      - path: Body/LegBase/Leg_L_04
+        weight: 1
+      - path: Body/LegBase/Leg_L_04/Leg_L_05
+        weight: 1
+      - path: Body/LegBase/Leg_L_04/Leg_L_05/Leg_L_06
+        weight: 1
+      - path: Body/LegBase/Leg_L_07
+        weight: 1
+      - path: Body/LegBase/Leg_L_07/Leg_L_08
+        weight: 1
+      - path: Body/LegBase/Leg_L_07/Leg_L_08/Leg_L_09
+        weight: 1
+      - path: Body/LegBase/Leg_L_10
+        weight: 1
+      - path: Body/LegBase/Leg_L_10/Leg_L_11
+        weight: 1
+      - path: Body/LegBase/Leg_L_10/Leg_L_11/Leg_L_12
+        weight: 1
+      - path: Body/LegBase/Leg_L_13
+        weight: 1
+      - path: Body/LegBase/Leg_L_13/Leg_L_14
+        weight: 1
+      - path: Body/LegBase/Leg_L_13/Leg_L_14/Leg_L_15
+        weight: 1
+      - path: Body/LegBase/Leg_R_01
+        weight: 1
+      - path: Body/LegBase/Leg_R_01/Leg_R_02
+        weight: 1
+      - path: Body/LegBase/Leg_R_01/Leg_R_02/Leg_R_03
+        weight: 1
+      - path: Body/LegBase/Leg_R_04
+        weight: 1
+      - path: Body/LegBase/Leg_R_04/Leg_R_05
+        weight: 1
+      - path: Body/LegBase/Leg_R_04/Leg_R_05/Leg_R_06
+        weight: 1
+      - path: Body/LegBase/Leg_R_07
+        weight: 1
+      - path: Body/LegBase/Leg_R_07/Leg_R_08
+        weight: 1
+      - path: Body/LegBase/Leg_R_07/Leg_R_08/Leg_R_09
+        weight: 1
+      - path: Body/LegBase/Leg_R_10
+        weight: 1
+      - path: Body/LegBase/Leg_R_10/Leg_R_11
+        weight: 1
+      - path: Body/LegBase/Leg_R_10/Leg_R_11/Leg_R_12
+        weight: 1
+      - path: Body/LegBase/Leg_R_13
+        weight: 1
+      - path: Body/LegBase/Leg_R_13/Leg_R_14
+        weight: 1
+      - path: Body/LegBase/Leg_R_13/Leg_R_14/Leg_R_15
+        weight: 1
+      - path: Body/Spine00
+        weight: 1
+      - path: Body/Spine00/Spine01
+        weight: 1
+      - path: Body/Spine00/Spine01/Leaf01
+        weight: 1
+      - path: Body/Spine00/Spine01/Leaf01/Leaf02
+        weight: 1
+      - path: Body/Spine00/Spine01/Leaf01/Leaf02/Leaf03
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Eye01
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Eye01/Eye02
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Eye01/Eye02/Eye03
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Eye01/Eye02/Eye03/Eye04
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Eye01/Eye02/Eye03/Eye04/Eye05
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Eye01/Eye02/Eye03/Eye04/Eye05/EyeTip
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Mouth
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Mouth/BottomMouth
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Mouth/BottomMouth/joint6
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Mouth/UpperMouth
+        weight: 1
+      - path: Body/Spine00/Spine01/Spine02/Head/Mouth/UpperMouth/joint5
+        weight: 1
+      - path: polySurface5
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

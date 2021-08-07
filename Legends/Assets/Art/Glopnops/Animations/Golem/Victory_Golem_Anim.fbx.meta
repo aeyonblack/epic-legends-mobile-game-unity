@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: b274e37d4dd14af40a1f79f04fcaf84d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmJoint_L
+    100002: ArmJoint_R
+    100004: Back
+    100006: Body
+    100008: Eye01_L
+    100010: Eye01_R
+    100012: Eye02_L
+    100014: Eye02_R
+    100016: EyeRoot
+    100018: Golem
+    100020: Hand_L
+    100022: Hand_R
+    100024: Head
+    100026: Index01_L
+    100028: Index01_R
+    100030: Index02_L
+    100032: Index02_R
+    100034: Index03_L
+    100036: Index03_R
+    100038: Jaw01
+    100040: Jaw02
+    100042: joint1
+    100044: joint2
+    100046: Leg01_L
+    100048: Leg01_R
+    100050: Leg02_L
+    100052: Leg02_R
+    100054: LowerArm_L
+    100056: LowerArm_R
+    100058: Mid01_L
+    100060: Mid01_R
+    100062: Mid02_L
+    100064: Mid02_R
+    100066: Mid03_L
+    100068: Mid03_R
+    100070: Notch
+    100072: Pinky01_L
+    100074: Pinky01_R
+    100076: Pinky02_L
+    100078: Pinky02_R
+    100080: Pinky03_L
+    100082: Pinky03_R
+    100084: Shoulder_L
+    100086: Shoulder_R
+    100088: Spine01
+    100090: Spine02
+    100092: Spine03
+    100094: Tail01
+    100096: Tail02
+    100098: Thumb01_L
+    100100: Thumb01_R
+    100102: Thumb02_L
+    100104: Thumb02_R
+    100106: Thumb03_L
+    100108: Thumb03_R
+    100110: UpperArm_L
+    100112: UpperArm_R
+    100114: //RootNode
+    400000: ArmJoint_L
+    400002: ArmJoint_R
+    400004: Back
+    400006: Body
+    400008: Eye01_L
+    400010: Eye01_R
+    400012: Eye02_L
+    400014: Eye02_R
+    400016: EyeRoot
+    400018: Golem
+    400020: Hand_L
+    400022: Hand_R
+    400024: Head
+    400026: Index01_L
+    400028: Index01_R
+    400030: Index02_L
+    400032: Index02_R
+    400034: Index03_L
+    400036: Index03_R
+    400038: Jaw01
+    400040: Jaw02
+    400042: joint1
+    400044: joint2
+    400046: Leg01_L
+    400048: Leg01_R
+    400050: Leg02_L
+    400052: Leg02_R
+    400054: LowerArm_L
+    400056: LowerArm_R
+    400058: Mid01_L
+    400060: Mid01_R
+    400062: Mid02_L
+    400064: Mid02_R
+    400066: Mid03_L
+    400068: Mid03_R
+    400070: Notch
+    400072: Pinky01_L
+    400074: Pinky01_R
+    400076: Pinky02_L
+    400078: Pinky02_R
+    400080: Pinky03_L
+    400082: Pinky03_R
+    400084: Shoulder_L
+    400086: Shoulder_R
+    400088: Spine01
+    400090: Spine02
+    400092: Spine03
+    400094: Tail01
+    400096: Tail02
+    400098: Thumb01_L
+    400100: Thumb01_R
+    400102: Thumb02_L
+    400104: Thumb02_R
+    400106: Thumb03_L
+    400108: Thumb03_R
+    400110: UpperArm_L
+    400112: UpperArm_R
+    400114: //RootNode
+    4300000: Golem
+    7400000: Victory
+    9500000: //RootNode
+    13700000: Golem
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Victory
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Leg01_L
+        weight: 1
+      - path: Body/Leg01_L/Leg02_L
+        weight: 1
+      - path: Body/Leg01_R
+        weight: 1
+      - path: Body/Leg01_R/Leg02_R
+        weight: 1
+      - path: Body/Spine01
+        weight: 1
+      - path: Body/Spine01/Spine02
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/joint2
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Index01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Index01_L/Index02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Index01_L/Index02_L/Index03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Mid01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Mid01_L/Mid02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Mid01_L/Mid02_L/Mid03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Pinky01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Pinky01_L/Pinky02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Pinky01_L/Pinky02_L/Pinky03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Thumb01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Thumb01_L/Thumb02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_L/UpperArm_L/LowerArm_L/Hand_L/Thumb01_L/Thumb02_L/Thumb03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/joint1
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Index01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Index01_R/Index02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Index01_R/Index02_R/Index03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Mid01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Mid01_R/Mid02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Mid01_R/Mid02_R/Mid03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Pinky01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Pinky01_R/Pinky02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Pinky01_R/Pinky02_R/Pinky03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Thumb01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Thumb01_R/Thumb02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/ArmJoint_R/UpperArm_R/LowerArm_R/Hand_R/Thumb01_R/Thumb02_R/Thumb03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Back
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Head
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Head/EyeRoot
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Head/EyeRoot/Eye01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Head/EyeRoot/Eye01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Head/EyeRoot/Eye02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Head/EyeRoot/Eye02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Head/Jaw01
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Head/Jaw01/Jaw02
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Notch
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Shoulder_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Shoulder_R
+        weight: 1
+      - path: Body/Tail01
+        weight: 1
+      - path: Body/Tail01/Tail02
+        weight: 1
+      - path: Golem
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

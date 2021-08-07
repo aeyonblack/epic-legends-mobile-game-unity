@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 9f413cbbaa6ff2d44a6d3dd90f03f633
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Belly01
+    100004: Belly02
+    100006: Body
+    100008: Eye01
+    100010: Eye02
+    100012: Eye03
+    100014: Eye04
+    100016: Eye05
+    100018: Eye06
+    100020: EyeJaw
+    100022: Head
+    100024: JawL01
+    100026: JawL02
+    100028: JawL03
+    100030: JawR01
+    100032: JawR02
+    100034: JawR03
+    100036: LegL01
+    100038: LegL02
+    100040: LegL03
+    100042: LegL04
+    100044: LegL05
+    100046: LegL06
+    100048: LegL07
+    100050: LegL08
+    100052: LegL09
+    100054: LegR01
+    100056: LegR02
+    100058: LegR03
+    100060: LegR04
+    100062: LegR05
+    100064: LegR06
+    100066: LegR07
+    100068: LegR08
+    100070: LegR09
+    100072: Spider
+    100074: Spine01
+    100076: Spine02
+    400000: //RootNode
+    400002: Belly01
+    400004: Belly02
+    400006: Body
+    400008: Eye01
+    400010: Eye02
+    400012: Eye03
+    400014: Eye04
+    400016: Eye05
+    400018: Eye06
+    400020: EyeJaw
+    400022: Head
+    400024: JawL01
+    400026: JawL02
+    400028: JawL03
+    400030: JawR01
+    400032: JawR02
+    400034: JawR03
+    400036: LegL01
+    400038: LegL02
+    400040: LegL03
+    400042: LegL04
+    400044: LegL05
+    400046: LegL06
+    400048: LegL07
+    400050: LegL08
+    400052: LegL09
+    400054: LegR01
+    400056: LegR02
+    400058: LegR03
+    400060: LegR04
+    400062: LegR05
+    400064: LegR06
+    400066: LegR07
+    400068: LegR08
+    400070: LegR09
+    400072: Spider
+    400074: Spine01
+    400076: Spine02
+    4300000: Spider
+    7400000: Attack01
+    9500000: //RootNode
+    13700000: Spider
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Spine01
+        weight: 1
+      - path: Body/Spine01/Belly01
+        weight: 1
+      - path: Body/Spine01/Belly02
+        weight: 1
+      - path: Body/Spine01/LegL04
+        weight: 1
+      - path: Body/Spine01/LegL04/LegL05
+        weight: 1
+      - path: Body/Spine01/LegL04/LegL05/LegL06
+        weight: 1
+      - path: Body/Spine01/LegL07
+        weight: 1
+      - path: Body/Spine01/LegL07/LegL08
+        weight: 1
+      - path: Body/Spine01/LegL07/LegL08/LegL09
+        weight: 1
+      - path: Body/Spine01/LegR04
+        weight: 1
+      - path: Body/Spine01/LegR04/LegR05
+        weight: 1
+      - path: Body/Spine01/LegR04/LegR05/LegR06
+        weight: 1
+      - path: Body/Spine01/LegR07
+        weight: 1
+      - path: Body/Spine01/LegR07/LegR08
+        weight: 1
+      - path: Body/Spine01/LegR07/LegR08/LegR09
+        weight: 1
+      - path: Body/Spine01/Spine02
+        weight: 1
+      - path: Body/Spine01/Spine02/Head
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/Eye01
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/Eye02
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/Eye03
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/Eye04
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/Eye05
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/Eye06
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/JawL01
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/JawL01/JawL02
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/JawL01/JawL02/JawL03
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/JawR01
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/JawR01/JawR02
+        weight: 1
+      - path: Body/Spine01/Spine02/Head/EyeJaw/JawR01/JawR02/JawR03
+        weight: 1
+      - path: Body/Spine01/Spine02/LegL01
+        weight: 1
+      - path: Body/Spine01/Spine02/LegL01/LegL02
+        weight: 1
+      - path: Body/Spine01/Spine02/LegL01/LegL02/LegL03
+        weight: 1
+      - path: Body/Spine01/Spine02/LegR01
+        weight: 1
+      - path: Body/Spine01/Spine02/LegR01/LegR02
+        weight: 1
+      - path: Body/Spine01/Spine02/LegR01/LegR02/LegR03
+        weight: 1
+      - path: Spider
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

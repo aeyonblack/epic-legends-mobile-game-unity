@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 27e9298adf47e424a86ef2f4f2f816e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back
+    100002: Beard01
+    100004: Beard02
+    100006: Beard03
+    100008: Beard04
+    100010: Body
+    100012: BottomEye_L
+    100014: BottomEye_R
+    100016: EvilMage
+    100018: EyeRoot_L
+    100020: EyeRoot_R
+    100022: FrontSkirt
+    100024: Hand_L
+    100026: Hand_R
+    100028: Head
+    100030: Index01_L
+    100032: Index01_R
+    100034: Index02_L
+    100036: Index02_R
+    100038: Index03_L
+    100040: Index03_R
+    100042: LeftSkirt
+    100044: LowerArm_L
+    100046: LowerArm_R
+    100048: Mid01_L
+    100050: Mid01_R
+    100052: Mid02_L
+    100054: Mid02_R
+    100056: Mid03_L
+    100058: Mid03_R
+    100060: Mustache01_L
+    100062: Mustache01_R
+    100064: Mustache02_L
+    100066: Mustache02_R
+    100068: Neck
+    100070: Nose01
+    100072: Nose02
+    100074: Pinky01_L
+    100076: Pinky01_R
+    100078: Pinky02_L
+    100080: Pinky02_R
+    100082: Pinky03_L
+    100084: Pinky03_R
+    100086: RearSkirt
+    100088: RightSkirt
+    100090: //RootNode
+    100092: Spine01
+    100094: Spine02
+    100096: Spine03
+    100098: Staff
+    100100: Staff01
+    100102: Thumb01_L
+    100104: Thumb01_R
+    100106: Thumb02_L
+    100108: Thumb02_R
+    100110: Thumb03_L
+    100112: Thumb03_R
+    100114: UppderEye_L
+    100116: UppderEye_R
+    100118: UpperArm_L
+    100120: UpperArm_R
+    100122: WeaponPosition
+    400000: Back
+    400002: Beard01
+    400004: Beard02
+    400006: Beard03
+    400008: Beard04
+    400010: Body
+    400012: BottomEye_L
+    400014: BottomEye_R
+    400016: EvilMage
+    400018: EyeRoot_L
+    400020: EyeRoot_R
+    400022: FrontSkirt
+    400024: Hand_L
+    400026: Hand_R
+    400028: Head
+    400030: Index01_L
+    400032: Index01_R
+    400034: Index02_L
+    400036: Index02_R
+    400038: Index03_L
+    400040: Index03_R
+    400042: LeftSkirt
+    400044: LowerArm_L
+    400046: LowerArm_R
+    400048: Mid01_L
+    400050: Mid01_R
+    400052: Mid02_L
+    400054: Mid02_R
+    400056: Mid03_L
+    400058: Mid03_R
+    400060: Mustache01_L
+    400062: Mustache01_R
+    400064: Mustache02_L
+    400066: Mustache02_R
+    400068: Neck
+    400070: Nose01
+    400072: Nose02
+    400074: Pinky01_L
+    400076: Pinky01_R
+    400078: Pinky02_L
+    400080: Pinky02_R
+    400082: Pinky03_L
+    400084: Pinky03_R
+    400086: RearSkirt
+    400088: RightSkirt
+    400090: //RootNode
+    400092: Spine01
+    400094: Spine02
+    400096: Spine03
+    400098: Staff
+    400100: Staff01
+    400102: Thumb01_L
+    400104: Thumb01_R
+    400106: Thumb02_L
+    400108: Thumb02_R
+    400110: Thumb03_L
+    400112: Thumb03_R
+    400114: UppderEye_L
+    400116: UppderEye_R
+    400118: UpperArm_L
+    400120: UpperArm_R
+    400122: WeaponPosition
+    4300000: EvilMage
+    4300002: Staff
+    7400000: SenseSomethingST
+    9500000: //RootNode
+    13700000: EvilMage
+    13700002: Staff
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SenseSomethingST
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/FrontSkirt
+        weight: 1
+      - path: Body/LeftSkirt
+        weight: 1
+      - path: Body/RearSkirt
+        weight: 1
+      - path: Body/RightSkirt
+        weight: 1
+      - path: Body/Spine01
+        weight: 1
+      - path: Body/Spine01/Spine02
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Back
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Beard01
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Beard01/Beard02
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Beard01/Beard02/Beard03
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Beard01/Beard02/Beard03/Beard04
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/EyeRoot_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/EyeRoot_L/BottomEye_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/EyeRoot_L/UppderEye_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/EyeRoot_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/EyeRoot_R/BottomEye_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/EyeRoot_R/UppderEye_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Mustache01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Mustache01_L/Mustache02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Mustache01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Mustache01_R/Mustache02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Nose01
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/Neck/Head/Nose01/Nose02
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Index01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Index01_L/Index02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Index01_L/Index02_L/Index03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Mid01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Mid01_L/Mid02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Mid01_L/Mid02_L/Mid03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Pinky01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Pinky01_L/Pinky02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Pinky01_L/Pinky02_L/Pinky03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Thumb01_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Thumb01_L/Thumb02_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_L/LowerArm_L/Hand_L/Thumb01_L/Thumb02_L/Thumb03_L
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Index01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Index01_R/Index02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Index01_R/Index02_R/Index03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Mid01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Mid01_R/Mid02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Mid01_R/Mid02_R/Mid03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Pinky01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Pinky01_R/Pinky02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Pinky01_R/Pinky02_R/Pinky03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Thumb01_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Thumb01_R/Thumb02_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/Thumb01_R/Thumb02_R/Thumb03_R
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/WeaponPosition
+        weight: 1
+      - path: Body/Spine01/Spine02/Spine03/UpperArm_R/LowerArm_R/Hand_R/WeaponPosition/Staff01
+        weight: 1
+      - path: EvilMage
+        weight: 1
+      - path: Staff
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: b54c9b568f893704f93b860b3f9b577d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bat
+    100002: Body
+    100004: Crown
+    100006: Ear01_L
+    100008: Ear01_R
+    100010: Ear02_L
+    100012: Ear02_R
+    100014: Ear03_L
+    100016: Ear03_R
+    100018: Eye01_L
+    100020: Eye01_R
+    100022: Eye02_L
+    100024: Eye02_R
+    100026: Head
+    100028: //RootNode
+    100030: Jaw01
+    100032: Jaw02
+    100034: UpperBody
+    100036: UpperJaw01
+    100038: UpperJaw02
+    100040: Wing01_L
+    100042: Wing01_R
+    100044: Wing02_L
+    100046: Wing02_R
+    100048: Wing03_L
+    100050: Wing03_R
+    100052: Wing04_L
+    100054: Wing04_R
+    100056: Wing05_L
+    100058: Wing05_R
+    100060: Wing06_L
+    100062: Wing06_R
+    100064: Wing07_L
+    100066: Wing07_R
+    100068: Wing08_L
+    100070: Wing08_R
+    400000: Bat
+    400002: Body
+    400004: Crown
+    400006: Ear01_L
+    400008: Ear01_R
+    400010: Ear02_L
+    400012: Ear02_R
+    400014: Ear03_L
+    400016: Ear03_R
+    400018: Eye01_L
+    400020: Eye01_R
+    400022: Eye02_L
+    400024: Eye02_R
+    400026: Head
+    400028: //RootNode
+    400030: Jaw01
+    400032: Jaw02
+    400034: UpperBody
+    400036: UpperJaw01
+    400038: UpperJaw02
+    400040: Wing01_L
+    400042: Wing01_R
+    400044: Wing02_L
+    400046: Wing02_R
+    400048: Wing03_L
+    400050: Wing03_R
+    400052: Wing04_L
+    400054: Wing04_R
+    400056: Wing05_L
+    400058: Wing05_R
+    400060: Wing06_L
+    400062: Wing06_R
+    400064: Wing07_L
+    400066: Wing07_R
+    400068: Wing08_L
+    400070: Wing08_R
+    4300000: Bat
+    7400000: IdleNormal
+    9500000: //RootNode
+    13700000: Bat
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IdleNormal
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bat
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/UpperBody
+        weight: 1
+      - path: Body/UpperBody/Crown
+        weight: 1
+      - path: Body/UpperBody/Ear01_L
+        weight: 1
+      - path: Body/UpperBody/Ear01_L/Ear02_L
+        weight: 1
+      - path: Body/UpperBody/Ear01_L/Ear02_L/Ear03_L
+        weight: 1
+      - path: Body/UpperBody/Ear01_R
+        weight: 1
+      - path: Body/UpperBody/Ear01_R/Ear02_R
+        weight: 1
+      - path: Body/UpperBody/Ear01_R/Ear02_R/Ear03_R
+        weight: 1
+      - path: Body/UpperBody/Head
+        weight: 1
+      - path: Body/UpperBody/Head/Eye01_L
+        weight: 1
+      - path: Body/UpperBody/Head/Eye01_L/Eye02_L
+        weight: 1
+      - path: Body/UpperBody/Head/Eye01_R
+        weight: 1
+      - path: Body/UpperBody/Head/Eye01_R/Eye02_R
+        weight: 1
+      - path: Body/UpperBody/Head/Jaw01
+        weight: 1
+      - path: Body/UpperBody/Head/Jaw01/Jaw02
+        weight: 1
+      - path: Body/UpperBody/Head/UpperJaw01
+        weight: 1
+      - path: Body/UpperBody/Head/UpperJaw01/UpperJaw02
+        weight: 1
+      - path: Body/UpperBody/Wing01_L
+        weight: 1
+      - path: Body/UpperBody/Wing01_L/Wing02_L
+        weight: 1
+      - path: Body/UpperBody/Wing01_L/Wing02_L/Wing03_L
+        weight: 1
+      - path: Body/UpperBody/Wing01_L/Wing02_L/Wing03_L/Wing04_L
+        weight: 1
+      - path: Body/UpperBody/Wing01_L/Wing02_L/Wing03_L/Wing04_L/Wing05_L
+        weight: 1
+      - path: Body/UpperBody/Wing01_L/Wing02_L/Wing03_L/Wing04_L/Wing05_L/Wing06_L
+        weight: 1
+      - path: Body/UpperBody/Wing01_L/Wing02_L/Wing03_L/Wing07_L
+        weight: 1
+      - path: Body/UpperBody/Wing01_L/Wing02_L/Wing03_L/Wing07_L/Wing08_L
+        weight: 1
+      - path: Body/UpperBody/Wing01_R
+        weight: 1
+      - path: Body/UpperBody/Wing01_R/Wing02_R
+        weight: 1
+      - path: Body/UpperBody/Wing01_R/Wing02_R/Wing03_R
+        weight: 1
+      - path: Body/UpperBody/Wing01_R/Wing02_R/Wing03_R/Wing04_R
+        weight: 1
+      - path: Body/UpperBody/Wing01_R/Wing02_R/Wing03_R/Wing04_R/Wing05_R
+        weight: 1
+      - path: Body/UpperBody/Wing01_R/Wing02_R/Wing03_R/Wing04_R/Wing05_R/Wing06_R
+        weight: 1
+      - path: Body/UpperBody/Wing01_R/Wing02_R/Wing03_R/Wing07_R
+        weight: 1
+      - path: Body/UpperBody/Wing01_R/Wing02_R/Wing03_R/Wing07_R/Wing08_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
