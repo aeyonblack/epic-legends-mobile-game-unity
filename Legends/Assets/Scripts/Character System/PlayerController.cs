@@ -26,6 +26,8 @@ public class PlayerController : Singleton<PlayerController>
 
     private void Start()
     {
+        Application.targetFrameRate = 60;
+
         controller = GetComponent<CharacterController>();
         character = GetComponent<CharacterData>();
         character.Init();
@@ -54,6 +56,8 @@ public class PlayerController : Singleton<PlayerController>
             LayerMask.NameToLayer("Character"));
         Physics.IgnoreLayerCollision(LayerMask.NameToLayer("Collectable"), 
             LayerMask.NameToLayer("Collectable"));
+        Physics.IgnoreLayerCollision(LayerMask.NameToLayer("Character"),
+            LayerMask.NameToLayer("LootBox"));
     }
 
     private void MovePlayer()
